@@ -7,7 +7,7 @@ import time
 
 # Client ID and secret
 client_id = '824440cf-faad-4de7-9b1d-5e94024945c8'
-client_secret = '64ea7c25-0e4d-4c5d-822b-277b6b3e09e0'
+client_secret = '1dAZ9i9X]?:2@c-q@Bc?z9pZO.9J5mlB'
 
 # Constant strings for OAuth2 flow
 # The OAuth authority
